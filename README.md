@@ -1,4 +1,4 @@
-Converts log files generated from the Pilot VAF to MAF converter board from the guys over at http://max.pilotpowersupply.com/ in Kygyzstan.
+Converts log files generated from the Pilot VAF to MAF converter board from the guys over at http://max.pilotpowersupply.com/ in Kyrgyzstan.
 This allows the files to be easily read by MegaLogViewer. 
 
 The file structure is a 15-byte header followed by rows of 15 bytes of data. 
