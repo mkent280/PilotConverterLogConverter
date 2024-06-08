@@ -1,6 +1,8 @@
 Bash script to convert log files generated from the Pilot VAF to MAF converter board from the guys over at http://max.pilotpowersupply.com/ in Kyrgyzstan.
 This allows the files to be easily read by MegaLogViewer. 
 
+Only tested under WSL with ubuntu 22.04.3
+
 The file structure is a 15-byte header followed by rows of 15 bytes of data. 
 I have not finished mapping out the header, but I have the MAF, O2, and output (to ECM) signals mapped.
 
