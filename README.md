@@ -11,4 +11,4 @@ The O2 0-255 ADC value is copied to a new column labled "AFR" with a linear conv
 This is correct for the innovate MTX-l wideband I'm running, you may need to update the numbers for your own use. 
 
 
-The Config file just accepts a directory path.
+The Config file accepts a directory path to your pilot log files.
